@@ -1,4 +1,19 @@
+---
+title: Working with Web Data in Python
+teaching: 30
+exercises: 30
+questions:
+    - " How can I use data to get specific online content? "
+objectives:
+    - Be able to deal with Nan values.
+    - Understand and set data types.
+    - Be able to get web-based content.
+    - Use a basic loop.
+---
 
+# Not Formatted
+
+This lesson has not been formatted and serves as a rough outline of the content that will be covered.
 
 ```python
 import requests as rq
