@@ -27,6 +27,6 @@ experience. These lessons can be taught in a half a day (~ 3 hours). They start 
 > everything *before* working through this lesson.
 {: .prereq}
 
-> # Note
+> ## Note
 > This is not an official Data Carpentry Lesson.  This lesson is a modification of an existing Data Carpentry lesson.
 {: .prereq}
