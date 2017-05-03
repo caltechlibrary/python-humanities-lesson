@@ -5,7 +5,6 @@ root: .
 maintainers:
 ---
 
-**Lesson Maintainers:** {{ page.maintainers | join: ', ' }}
 
 Python is a general purpose programming language that is useful for writing scripts to work effectively and reproducibly with data.
 
@@ -28,7 +27,6 @@ experience. These lessons can be taught in a half a day (~ 3 hours). They start 
 > everything *before* working through this lesson.
 {: .prereq}
 
-> ## For Instructors
-> If you are teaching this lesson in a workshop, please see the 
-> [Instructor notes](guide/).
+> # Note
+> This is not an official Data Carpentry Lesson.  This lesson is a modification of an existing Data Carpentry lesson.
 {: .prereq}
